@@ -15,11 +15,11 @@ The goals / steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-![alt text](./out_images/threshold_cases.jpg)
-[image1]: ./output_images/straight_lines2.jpg "example image"
-[image2]: ./output_images/test3.jpg "test image"
+![alt text](./output_images/threshold_cases.jpg "Different threshold cases")
+![alt text](./output_images/straight_lines2.jpg "example image")
+![alt text](./output_images/test3.jpg "test image")
 other test_images are in /output_images/ folder
-[video1]: ./project_video_output.mp4 "output video"
+![video1](./project_video_output.mp4 "output video")
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
