@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-[lane finding different scenarios]: ![](out_images/threshold_cases.jpg)
+![alt text](./out_images/threshold_cases.jpg)
 [image1]: ./output_images/straight_lines2.jpg "example image"
 [image2]: ./output_images/test3.jpg "test image"
 other test_images are in /output_images/ folder
