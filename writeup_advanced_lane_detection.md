@@ -101,7 +101,7 @@ I did this in the cell 8, I employed the formula of Rc = (1+(2*A+B)^2)^(1.5)/|2*
 
 I implemented this step in cell 9 in my code in the function `pipeline()`.  Here is an example of my result on a test image:
 
-![alt text](./output_images/test6.jpg)
+![alt text](./output_images/test6-Copy1.jpg)
 
 ---
 
